@@ -26,7 +26,7 @@ nav{
 }
 
 .logo{
-    text-decoration:none;
+    text-decoration: none;
 }
 
 .upper{
@@ -65,7 +65,7 @@ h1{
     font-size: 4rem;
 }
 
-.position{
+.occupation{
   grid-column: 1/2;
   grid-row: 2/3;
   display: flex;
@@ -97,7 +97,7 @@ p{
     display: grid;
     justify-content: center;
     grid-template-columns: 40% 40%;
-    column-gap: 1%;
+    column-gap: 2%;
 }
 
 .aboutcol, .hobbiescol{
@@ -128,7 +128,7 @@ p{
     padding-bottom: 8%;
 }
 
-.picalign{
+.photoalign{
     display: flex;
     justify-content: center;
 }
