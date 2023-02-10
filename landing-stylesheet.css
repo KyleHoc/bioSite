@@ -9,6 +9,10 @@ body{
     justify-content: center;
 }
 
+div{
+    border-radius: 15px;
+}
+
 .gridcontainer{
     display: grid;
     grid-template-rows: .2fr 5fr 3fr;
@@ -27,6 +31,11 @@ nav{
 
 .logo{
     text-decoration: none;
+}
+
+
+.logo:hover{
+    text-decoration: underline;
 }
 
 .upper{
