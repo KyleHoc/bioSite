@@ -16,10 +16,11 @@ div, section{
 .gridcontainer{
     display: grid;
     grid-template-rows: .2fr 1.5fr 5.5fr 1fr;
-    height: 92%;
+    height: 100%;
     width: 90%;
     justify-content: center;
 }
+
 nav{
     display: flex;
     color: #F7F7F7;
@@ -73,6 +74,7 @@ h1{
     padding: 0 0 0 1%;
     color:#0B5F3F;
     font-family: 'Raleway', sans-serif;
+    font-size: 2em;
 }
 
 .header{
