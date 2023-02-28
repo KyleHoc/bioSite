@@ -57,6 +57,8 @@ a{
     grid-template-columns: 6fr 2fr;
     border-radius: 15px;
     padding: 4%;
+    padding-top: 0;
+    box-shadow: 15px 8px black;
 }
 
 .hobby1{
@@ -65,11 +67,12 @@ a{
 
 .hobby2{
     grid-row: 3/4;
-    margin-top: 5%;
+    margin-top: 9%;
 }
 
 .hobby3{
     grid-row:4/5;
+    margin-top: 9%;
 }
 
 .hobby1, .hobby2, .hobby3{
@@ -86,6 +89,7 @@ h1{
     grid-row: 1/3;
     grid-column: 2/3;
     text-align: center;
+    padding-top: 16%;
 }
 
 .pic2{
